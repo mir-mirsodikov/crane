@@ -1,5 +1,21 @@
 <h1>Crane - Go CLI Library</h1>
 
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Pre-requisites](#pre-requisites)
+  - [Setup repo locally](#setup-repo-locally)
+    - [Check out the repo](#check-out-the-repo)
+    - [Build the project](#build-the-project)
+- [Usage](#usage)
+  - [Add the library to your project](#add-the-library-to-your-project)
+  - [Include the library in your project](#include-the-library-in-your-project)
+  - [Create a root command](#create-a-root-command)
+  - [Add a subcommand](#add-a-subcommand)
+  - [Specify the number of arguments](#specify-the-number-of-arguments)
+  - [All together now](#all-together-now)
+- [License](#license)
+
 # Overview
 
 I have built some web servers with Go, but have not used Go for one of its most 
